@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://magnetic-button-effect.netlify.app/sitemap.xml
