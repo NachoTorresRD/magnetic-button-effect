@@ -10,6 +10,7 @@ Botón magnético que responde a la proximidad del cursor y ofrece una reacción
 - Retorno progresivo a reposo con `requestAnimationFrame`.
 - Alternativa táctil y soporte para movimiento reducido.
 - Responsive, sin librerías y listo para Netlify.
+- Efecto y controles completos dentro de una sola toma.
 
 ## Demo en vivo
 
@@ -21,7 +22,7 @@ Clona el repositorio, entra en `magnetic-button-effect` y abre `index.html`.
 
 ## Estructura del proyecto
 
-`index.html` contiene la semántica, `style.css` el sistema visual, `script.js` la física y `assets/` las imágenes SVG.
+`index.html` contiene la semántica, `style.css` el sistema visual, `capture.css` la composición de una toma, `script.js` la física y `assets/` las imágenes SVG.
 
 ## Cómo personalizarlo
 

@@ -10,6 +10,7 @@ A magnetic button that responds to cursor proximity and provides an equivalent t
 - Progressive return to rest with `requestAnimationFrame`.
 - Touch alternative and reduced-motion support.
 - Responsive, dependency-free, and Netlify-ready.
+- Complete effect and controls inside a single capture.
 
 ## Live demo
 
@@ -21,7 +22,7 @@ Clone the repository, enter `magnetic-button-effect`, and open `index.html`.
 
 ## Project structure
 
-`index.html` contains semantics, `style.css` the visual system, `script.js` the physics, and `assets/` the SVG images.
+`index.html` contains semantics, `style.css` the visual system, `capture.css` the one-shot composition, `script.js` the physics, and `assets/` the SVG images.
 
 ## Customization
 
