@@ -16,6 +16,12 @@ Botón magnético que responde a la proximidad del cursor y ofrece una reacción
 
 [magnetic.ntdesweb.dev](https://magnetic.ntdesweb.dev/)
 
+## Más demos de efectos
+
+- [Glassmorphism Pricing Card](https://glass.ntdesweb.dev/)
+- [Scroll Reveal](https://scroll.ntdesweb.dev/)
+- [Neon Cursor Trail](https://neon.ntdesweb.dev/)
+
 ## Instalación
 
 Clona el repositorio, entra en `magnetic-button-effect` y abre `index.html`.
