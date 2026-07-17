@@ -14,7 +14,7 @@ Botón magnético que responde a la proximidad del cursor y ofrece una reacción
 
 ## Demo en vivo
 
-[magneticfx.ntdesweb.dev](https://magneticfx.ntdesweb.dev/)
+[magnetic.ntdesweb.dev](https://magnetic.ntdesweb.dev/)
 
 ## Instalación
 

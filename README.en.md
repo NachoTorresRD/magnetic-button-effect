@@ -14,7 +14,7 @@ A magnetic button that responds to cursor proximity and provides an equivalent t
 
 ## Live demo
 
-[magneticfx.ntdesweb.dev](https://magneticfx.ntdesweb.dev/)
+[magnetic.ntdesweb.dev](https://magnetic.ntdesweb.dev/)
 
 ## Installation
 
