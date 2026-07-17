@@ -14,7 +14,7 @@ A magnetic button that responds to cursor proximity and provides an equivalent t
 
 ## Live demo
 
-[magnetic-button-effect.netlify.app](https://magnetic-button-effect.netlify.app)
+[magneticfx.ntdesweb.dev](https://magneticfx.ntdesweb.dev/)
 
 ## Installation
 

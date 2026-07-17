@@ -14,7 +14,7 @@ Botón magnético que responde a la proximidad del cursor y ofrece una reacción
 
 ## Demo en vivo
 
-[magnetic-button-effect.netlify.app](https://magnetic-button-effect.netlify.app)
+[magneticfx.ntdesweb.dev](https://magneticfx.ntdesweb.dev/)
 
 ## Instalación
 
